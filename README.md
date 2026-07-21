@@ -14,7 +14,7 @@ Turn any image into a buildable Growtopia pixel art design — matches every pix
 |---|---|
 | `SolidItemFilter.py` | Filters the full Growtopia item list down to "solid" items usable for pixel art (checks each sprite's fill %) → `output/solid_items.json` |
 | `ComputeItemStats.py` | Pre-computes the average color + variance for every solid item's sprite → `output/item_stats.json` |
-| `PixelMatcher.py` | The main tool — matches an image's pixels to items and generates the build grid, previews, and Excel sheet |
+| `PixelMatcher.py` | matches an image's pixels to items and generates the build grid, previews, and Excel sheet |
 | `gtCommon.py` | Shared color-math helpers used by the two scripts above |
 
 ### Setup
@@ -133,3 +133,5 @@ python PixelMatcher.py your_image.png 70 70
 ### 关于贴图素材的说明
 
 仓库里没放 `sprites/` 文件夹。Growtopia的道具贴图是游戏官方的版权素材,这个项目没有权利帮你分发这些图,所以需要你自己在本地准备一份。详细说明在 `output/sprites_note.txt` 里。
+
+thanks to claude make this md🥰🥰
