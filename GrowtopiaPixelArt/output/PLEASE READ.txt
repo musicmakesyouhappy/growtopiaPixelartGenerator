@@ -1,0 +1,16 @@
+English:
+The sprite images this project matches against are taken directly from Growtopia
+itself. They're the game's own copyrighted assets, not mine to share or redistribute,
+so they're intentionally left out of this repo. If you want to run the scripts
+yourself, you'll need to grab your own copy of the sprites and drop them into a
+local sprites/ folder.
+
+Got questions about getting this set up? Feel free to DM me on Discord: @musicmakesyouhappy
+
+
+中文:
+这个项目用来匹配的道具贴图,是直接从Growtopia游戏里拿出来的。这些贴图是游戏官方的
+版权素材,不是我的东西,所以没有权利分享或者重新发布,仓库里也就没放。如果你想自己
+跑这些脚本,需要自己去弄一份贴图,放到本地的 sprites/ 文件夹里。
+
+配置的时候有问题的话,欢迎来Discord找我:@musicmakesyouhappy
